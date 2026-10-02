@@ -2,7 +2,7 @@
 
 **Proyecto:** Guaca · Semana 2
 
-**Tablero en GitHub Projects:** [Guaca-Backlog MVP]([https://github.com/users/Hnd-jg/projects/N](https://github.com/users/Hnd-jg/projects/2))
+**Tablero en GitHub Projects:** [Guaca-Backlog MVP]([https://github.com/users/Hnd-jg/projects/N](https://github.com/users/Hnd-jg/projects/2)])
 
 Este documento respalda el tablero Kanban. Cada historia es un issue del repositorio con sus criterios de aceptación. El orden y la prioridad salen de la sección 1 del [Product Blueprint](ProductBlueprint.md) (método MoSCoW) y el alcance, de la sección 4.
 
